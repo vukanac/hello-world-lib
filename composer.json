@@ -1,0 +1,11 @@
+{
+    "name": "vukanac/hello-world-lib",
+    "description": "Test to use lib from github in composer.",
+    "authors": [
+        {
+            "name": "Vladimir Vukanac",
+            "email": "vladimir@vukanac.com"
+        }
+    ],
+    "require": {}
+}
